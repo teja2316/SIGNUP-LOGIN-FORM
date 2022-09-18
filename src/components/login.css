@@ -1,0 +1,62 @@
+*{
+    text-align: center;
+}
+
+
+.container{
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    
+}
+
+
+.box{
+    display: flex;
+    justify-content: center;
+    height: 1000px;
+    width: 1000px;
+    box-shadow: 11px 12px 13px 12px rgb(238, 237, 237) ;
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: rgb(108, 15, 184);
+}
+
+.signUpButton{
+    padding-top: 30px;
+    
+}
+
+button{
+    font-size: large;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(165, 228, 18);
+    color: white;
+    border: none;
+
+} 
+
+.sign1{
+    background-color: brown;
+    font-size: large;
+    margin-right: 50px;
+}
+
+.sign2{
+    background-color: brown;
+    font-size: large;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #1be709;
+    border-radius: 12px;
+
+    color: rgb(22, 1, 1);
+    padding: 10px 20px;
+  }
+  
